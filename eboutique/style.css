@@ -1,0 +1,109 @@
+table
+{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table.produit th
+{
+	border: 2px solid; 
+	border-color: #D19275;
+	background-color: #FAFAD2;
+	font: 30px Times;
+}
+
+table.produit td
+{
+	border: 2px solid; 
+	border-color: #D19275;
+	background-color: #FAEBD7;	
+	text-align: center;
+	font: 25px Times;
+}
+
+table.connexion th
+{
+	border: 1px solid;
+	border-color: #D19275;
+	background-color: #FFFACD;	
+	text-align: left;
+	font: 17px arial;
+}
+
+table.connexion td
+{
+	border: 1px solid;
+	border-color: #D19275;
+	background-color: #FFE4B5;	
+	font: 17px arial;
+}
+
+table.contacter th
+{
+	border: 2px solid;
+	border-color: #D19275;
+	background-color: #FFFACD;
+	text-align: left;
+	font: 15px arial;
+}
+
+table.contacter td
+{
+	border: 2px solid;
+	border-color: #D19275;
+	background-color: #FFE4B5;
+	font: 15px arial;
+}
+
+table.entete
+{
+	border: 3px solid;
+	border-color: #D19275;
+}
+
+body
+{
+	background-color: #FFE4C4;
+}
+
+h2
+{
+	color: #B22222;
+	font: 30px Georgia;
+}
+
+section
+{
+	width: 80%;
+    display: inline-block;    
+    border: 2px solid #D2691E;
+    background-color: #FFF8DC;
+    vertical-align: top;
+}
+
+h3
+{
+	color: #8B0000;
+}
+
+div.article
+{
+	color: #000080;
+	font: 15px arial;
+}
+
+input.bouton
+{
+	background-color: #B8860B;
+}
+
+legend
+{
+	color: #8B0000;
+	font: 30px Georgia;
+}
+
+div.accueil
+{
+	font: 25px arial;
+}
